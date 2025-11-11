@@ -34,7 +34,7 @@
     "cdk-ec2-key-pair": "^4.0.1",
     "commander": "^12.1.0",
     "constructs": "^10.0.0",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.6.1",
     "ora": "5.4.1"
   }
 }
